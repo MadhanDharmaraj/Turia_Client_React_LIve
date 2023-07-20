@@ -2,7 +2,7 @@
     "name": "Turia Pro",
     "short_name": "Turia",
     "id": "/index.html",
-    "start_url": "/index.html",
+    "start_url": "/",
     "scope": "./" ,  
     "display": "standalone",
     "theme_color": "#0476F2",
